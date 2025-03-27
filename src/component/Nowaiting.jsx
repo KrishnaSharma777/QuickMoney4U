@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { Box, Typography, Button } from "@mui/material";
 
 const Nowaiting = () => {
-  const content = `At Quick Money 4 U, we are committed to ensuring our customers feel financially secure, confident, and stress-free. Our financial assistance is 100% safe, trustworthy, and fully transparent. Whether you need urgent funds for unexpected expenses, we’ve got you covered. Say goodbye to financial worries—your reliable personal finance partner is here to help!`;
+  const content = `At Expessrupee, we are committed to ensuring our customers feel financially secure, confident, and stress-free. Our financial assistance is 100% safe, trustworthy, and fully transparent. Whether you need urgent funds for unexpected expenses, we’ve got you covered. Say goodbye to financial worries—your reliable personal finance partner is here to help!`;
 
   const words = content.split(" "); // Split the content into words
   const [isVisible, setIsVisible] = useState(false);

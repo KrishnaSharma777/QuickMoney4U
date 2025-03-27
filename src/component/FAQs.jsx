@@ -73,13 +73,13 @@ const FAQs = () => {
             {[
               {
                 id: "faq1",
-                question: "1) What is QuickMoney4U all about?",
-                answer: `QuickMoney4U is an online platform that offers quick and hassle-free personal loans to salaried individuals. As a part of AMAN FINCAP LIMITED(an RBI-registered NBFC), we aim to provide financial solutions to meet your personal needs, whether it’s for emergency situations, home repairs or improvements, or even celebrations of your loved ones.`,
+                question: "1) What is Expessrupee all about?",
+                answer: `Expessrupee is an online platform that offers quick and hassle-free personal loans to salaried individuals. As a part of Expessrupee(an RBI-registered NBFC), we aim to provide financial solutions to meet your personal needs, whether it’s for emergency situations, home repairs or improvements, or even celebrations of your loved ones.`,
               },
               {
                 id: "faq2",
                 question:
-                  "2) Who is eligible to apply for a personal loan from QuickMoney4U?",
+                  "2) Who is eligible to apply for a personal loan from Expessrupee?",
                 answer: [
                   "To be eligible for a personal loan, you must be:",
                   "• A salaried individual",
@@ -104,13 +104,13 @@ const FAQs = () => {
 
               {
                 id: "faq4",
-                question: "4) How much can I borrow from QuickMoney4U?",
-                answer: `QuickMoney4U offers personal loans ranging from ₹5,000 to ₹1,00,000 depending on your salary, repayment capacity, and credit score.`,
+                question: "4) How much can I borrow from Expessrupee?",
+                answer: `Expessrupee offers personal loans ranging from ₹5,000 to ₹1,00,000 depending on your salary, repayment capacity, and credit score.`,
               },
               {
                 id: "faq5",
                 question:
-                  "5) What is the interest rate on personal loans at QuickMoney4U?",
+                  "5) What is the interest rate on personal loans at Expessrupee?",
                 answer: `The interest rate varies based on your credit profile, loan amount, and tenure. Though our rates are competitive and are specifically designed to be affordable for salaried individuals, one may contact us to get a personalized quoted price.`,
               },
               {
@@ -122,12 +122,11 @@ const FAQs = () => {
               {
                 id: "faq7",
                 question: "7) Can I repay my loan early?",
-                answer: `Yes, QuickMoney4U allows early repayment of loans. Please review your loan agreement or contact us for more details.`,
+                answer: `Yes, Expessrupee allows early repayment of loans. Please review your loan agreement or contact us for more details.`,
               },
               {
                 id: "faq8",
-                question:
-                  "8) How does QuickMoney4U assess my creditworthiness?",
+                question: "8) How does Expessrupee assess my creditworthiness?",
                 answer: `We assess your loan eligibility based on certain factors such as your monthly income, credit score, job stability, and repayment history. A good credit score increases your chances of getting approved with a favorable interest rate.`,
               },
               {
@@ -138,14 +137,14 @@ const FAQs = () => {
               },
               {
                 id: "faq10",
-                question: "10) How do I repay my loan to QuickMoney4U?",
+                question: "10) How do I repay my loan to Expessrupee?",
                 answer: `You can repay your loan through various payment options such as NACH (National Automated Clearing House), direct debit, or online payments via our website.`,
               },
               {
                 id: "faq11",
                 question:
-                  "11) Is my personal and financial information safe with QuickMoney4U?",
-                answer: `Absolutely! QuickMoney4U uses advanced security measures, including encryption and secure servers, to ensure your personal and financial data is protected. We adhere to all data privacy regulations and take confidentiality concerns seriously.`,
+                  "11) Is my personal and financial information safe with Expessrupee?",
+                answer: `Absolutely! Expessrupee uses advanced security measures, including encryption and secure servers, to ensure your personal and financial data is protected. We adhere to all data privacy regulations and take confidentiality concerns seriously.`,
               },
               {
                 id: "faq12",
@@ -156,7 +155,7 @@ const FAQs = () => {
                 id: "faq13",
                 question:
                   "13) How can I contact customer support for further assistance?",
-                answer: `You can reach our customer support through our website’s contact form, by email at support@QuickMoney4U.com, or by calling our helpline numbers during business hours. We’re here to assist you with any questions or concerns.`,
+                answer: `You can reach our customer support through our website’s contact form, by email at support@Expessrupee.com, or by calling our helpline numbers during business hours. We’re here to assist you with any questions or concerns.`,
               },
             ].map((faq, index) => (
               <Accordion

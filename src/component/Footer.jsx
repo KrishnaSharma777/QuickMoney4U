@@ -10,13 +10,13 @@ import {
   YouTube,
 } from "@mui/icons-material";
 import { Container, Grid, Typography, Link, Box } from "@mui/material";
-import logo from "../assets/image/green_background_4x-removebg-preview.png";
+import logo from "../assets/image/WhatsApp_Image_2025-03-26_at_11.43.06_PM-removebg-preview.png";
 import TwitterIcon from "../assets/image/x.jpg"; // Replace with the correct path to your image
 
 const linkStyle = {
   display: "flex",
   alignItems: "center",
-  color: "#fff",
+  color: "black",
   fontSize: "1rem",
   textDecoration: "none",
   transition: "color 0.3s ease",
@@ -35,7 +35,7 @@ const Footer = () => {
     // }}>
     <Box
       sx={{
-        backgroundColor: "#2da67f",
+        backgroundColor: "#9999",
         padding: {
           xs: "40px 20px",
           sm: "60px 30px",
@@ -130,7 +130,7 @@ const Footer = () => {
                 <Typography
                   variant="h6"
                   sx={{
-                    color: "#fff",
+                    color: "black",
                     fontWeight: 500,
                     mb: 2,
                     textAlign: "left",
@@ -175,7 +175,7 @@ const Footer = () => {
                 <Typography
                   variant="h6"
                   sx={{
-                    color: "#fff",
+                    color: "black",
                     fontWeight: 500,
                     mb: 2,
                     textAlign: "left",
@@ -210,7 +210,7 @@ const Footer = () => {
                 <Typography
                   variant="h6"
                   sx={{
-                    color: "#fff",
+                    color: "black",
                     fontWeight: 500,
                     mb: 2,
                     textAlign: "left",
@@ -231,7 +231,7 @@ const Footer = () => {
                         alignItems: "center",
                       }}
                     >
-                      <Email sx={{ mr: 1 }} /> info@quickmoney4u.com
+                      <Email sx={{ mr: 1 }} /> info@Expessrupee.com
                     </Link>
                   </li>
                   <li>
@@ -282,11 +282,11 @@ const Footer = () => {
           <Typography
             variant="body2"
             style={{
-              color: "#fff",
+              color: "black",
               textShadow: "1px 1px 2px rgba(0, 0, 0, 0.7)",
             }}
           >
-            Copyright &copy; 2024 QuickMoney4U. All Rights Reserved.
+            Copyright &copy; 2024 Expessrupee. All Rights Reserved.
           </Typography>
         </Box>
       </footer>

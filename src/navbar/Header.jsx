@@ -18,7 +18,7 @@ import AttachMoneyIcon from "@mui/icons-material/AttachMoney";
 import CalculateIcon from "@mui/icons-material/Calculate";
 import { keyframes } from "@mui/system";
 
-import logo from "../assets/image/green background@4x (1).svg"; // Adjust the path based on your structure
+import logo from "../assets/image/WhatsApp_Image_2025-03-26_at_11.43.06_PM-removebg-preview.png"; // Adjust the path based on your structure
 
 // Blinking animation for the "Apply Now" button
 const blinking = keyframes`
@@ -81,9 +81,9 @@ const Header = () => {
               alt="Logo"
               style={{
                 borderRadius: 10,
-                width: "100px", // Adjusted width for better visibility
+                width: "40%", // Adjusted width for better visibility
                 height: "auto", // Maintain aspect ratio
-                maxWidth: "100px", // Ensures it fits properly on larger screens
+                maxWidth: "100%", // Ensures it fits properly on larger screens
                 objectFit: "contain",
               }}
             />

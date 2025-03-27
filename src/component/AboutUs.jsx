@@ -116,14 +116,15 @@ const AboutUs = () => {
           marginBottom: { xs: "40px", md: "20px" }, // Responsive bottom margin
         }}
       >
-        Welcome to QuickMoney4U - your one-stop shop in providing personal
+        Welcome to Expessrupee - your one-stop shop in providing personal
         finance loans to all the salaried professionals in the age bracket of
-        21-60. As a digital lending partner underAMAN FINCAP LIMITED, we have an
-        expertise in providing quick, easily accessible, and short-term
-        unsecured loans across India. Our main motto is to make our customers
-        feel empowered on financial grounds with full privilege to have credit,
-        making the loan process easier through innovative use of technology, and
-        customized solutions that meet their unique financial needs.
+        21-60. As a digital lending partner under <strong>Expessrupee</strong>,
+        we have an expertise in providing quick, easily accessible, and
+        short-term unsecured loans across India. Our main motto is to make our
+        customers feel empowered on financial grounds with full privilege to
+        have credit, making the loan process easier through innovative use of
+        technology, and customized solutions that meet their unique financial
+        needs.
       </Typography>
 
       <Typography
@@ -142,7 +143,7 @@ const AboutUs = () => {
           marginBottom: { xs: "40px", md: "60px" }, // Responsive bottom margin
         }}
       >
-        At QuickMoney4U, we understand that life can be really challenging,
+        At Expessrupee, we understand that life can be really challenging,
         especially when it’s the arrival of emergency situations, wedding
         expenses, home improvisations. We’re here to ensure that financial
         stress doesn't hold you back. With our easy-to-use fully digital
@@ -208,7 +209,7 @@ const AboutUs = () => {
             and make it easily accessible for salaried individuals. We believe
             in giving everyone the power of being financially secured and are
             committed to providing easy and affordable access to credit. Through
-            our collaboration with AMAN FINCAP LIMITED, an RBI-registered NBFC
+            our collaboration with Expessrupee, an RBI-registered NBFC
             (Non-Banking Financial Company), we offer loans that are secure,
             transparent, and customized as per the needs of today’s modern-day
             consumer.
@@ -293,7 +294,7 @@ const AboutUs = () => {
               fontSize: "18px",
             }}
           >
-            Our vision at QuickMoney4U is to redefine how personal finance is
+            Our vision at Expessrupee is to redefine how personal finance is
             accessed by salaried professionals in India. We aim to create a
             transparent, customer-focused platform that provides access to
             credit when it’s required by people the most. By making use of the

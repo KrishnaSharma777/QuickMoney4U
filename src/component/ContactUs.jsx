@@ -130,7 +130,7 @@ const AboutUs = () => {
                   >
                     Email
                   </Typography>
-                  <Typography sx={{ mb: 2 }}>info@quickMoney4u.com</Typography>
+                  <Typography sx={{ mb: 2 }}>info@Expessrupee.com</Typography>
                 </Grid>
 
                 {/* Reach Us in the second row */}
