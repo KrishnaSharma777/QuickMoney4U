@@ -14,29 +14,29 @@ const TermsAndConditions = () => {
     {
       title: "Terms & Conditions",
       content: [
-        "Welcome to Expessrupee! By accessing and using this website or applying for any of our loan products, you agree to comply with the terms and conditions outlined here. These Terms and Conditions constitute a legal agreement between you and Expessrupee (an NBFC registered with RBI for lending purposes), which governs your use of our website and services. Please read these terms carefully. If you do not agree with these terms, you should refrain from using this website or applying for loans through Expessrupee.",
+        "Welcome to Xpressrupee! By accessing and using this website or applying for any of our loan products, you agree to comply with the terms and conditions outlined here. These Terms and Conditions constitute a legal agreement between you and Xpressrupee (an NBFC registered with RBI for lending purposes), which governs your use of our website and services. Please read these terms carefully. If you do not agree with these terms, you should refrain from using this website or applying for loans through Xpressrupee.",
       ],
     },
     {
       title: "1. Introduction",
       content: [
-        "Expessrupee provides personal loans to salaried individuals under the regulatory guidelines of Expessrupee, an NBFC registered with the RBI. Our primary goal is to provide hassle-free, easy, and transparent financial solutions to help individuals manage their personal finances.",
+        "Xpressrupee provides personal loans to salaried individuals under the regulatory guidelines of Xpressrupee, an NBFC registered with the RBI. Our primary goal is to provide hassle-free, easy, and transparent financial solutions to help individuals manage their personal finances.",
       ],
     },
     {
       title: "2. Eligibility Criteria",
       content: [
-        "To apply for a personal loan with Expessrupee, you must meet the following eligibility requirements:",
+        "To apply for a personal loan with Xpressrupee, you must meet the following eligibility requirements:",
         "\u2022 Be at least 21 years old and not older than 60 at the time of loan application.",
         "\u2022 Be a salaried individual with a stable source of income from a recognized organization.",
-        "\u2022 Meet the minimum monthly income criteria defined byExpessrupee.",
+        "\u2022 Meet the minimum monthly income criteria defined byXpressrupee.",
         "\u2022 Be a resident of India with a satisfactory credit score and financial history.",
       ],
     },
     {
       title: "3. Loan Application Process",
       content: [
-        "The loan application process at Expessrupee includes registration, filling out the application form, document submission, and credit assessment. Approval of loans is at the sole discretion of Expessrupee.",
+        "The loan application process at Xpressrupee includes registration, filling out the application form, document submission, and credit assessment. Approval of loans is at the sole discretion of Xpressrupee.",
       ],
     },
     {
@@ -54,7 +54,7 @@ const TermsAndConditions = () => {
     {
       title: "6. Loan Disbursement",
       content: [
-        "Upon approval of your loan application and completion of required formalities, the loan amount will be credited directly to your bank account. The timing at which the amount will be disbursed may vary depending on internal processes, but Expessrupee strives to ensure quick and efficient transfer of funds, just with a fingertap.",
+        "Upon approval of your loan application and completion of required formalities, the loan amount will be credited directly to your bank account. The timing at which the amount will be disbursed may vary depending on internal processes, but Xpressrupee strives to ensure quick and efficient transfer of funds, just with a fingertap.",
       ],
     },
     {
@@ -102,7 +102,7 @@ const TermsAndConditions = () => {
     {
       title: "14. Limitation of Liability",
       content: [
-        "Expessrupee shall not be liable for any loss, damage, or inconvenience arising out of the use of this website or services, except as expressly stated in the loan agreement.",
+        "Xpressrupee shall not be liable for any loss, damage, or inconvenience arising out of the use of this website or services, except as expressly stated in the loan agreement.",
       ],
     },
     {

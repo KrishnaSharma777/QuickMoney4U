@@ -183,24 +183,24 @@ const SortFAQ = () => {
 // FAQ items data
 const faqItems = [
   {
-    question: "What is Expessrupee?",
+    question: "What is Xpressrupee?",
     answer:
-      "Expessrupee is a platform or a service provider that provides financial assistance to all the salaried professionals.",
+      "Xpressrupee is a platform or a service provider that provides financial assistance to all the salaried professionals.",
   },
   {
-    question: "Who can apply for a personal loan on Expessrupee?",
+    question: "Who can apply for a personal loan on Xpressrupee?",
     answer:
-      "Full-time salaried individuals that fall in the age of 21-60 can apply for a personal loan on Expessrupee.",
+      "Full-time salaried individuals that fall in the age of 21-60 can apply for a personal loan on Xpressrupee.",
   },
   {
-    question: "How much loan amount can I get from Expessrupee?",
+    question: "How much loan amount can I get from Xpressrupee?",
     answer:
       "We offer personal loans ranging from INR 5,000 to INR 1,00,000, depending on the creditworthiness, salary, and other applicable parameters.",
   },
   {
-    question: "How do I apply for a loan on Expessrupee?",
+    question: "How do I apply for a loan on Xpressrupee?",
     answer:
-      "Applying for a loan is easier than you may think. Fill the form on our website www.Expessrupee.com along with the set of required documents, and get it instantly approved.",
+      "Applying for a loan is easier than you may think. Fill the form on our website www.Xpressrupee.com along with the set of required documents, and get it instantly approved.",
   },
   {
     question: "What documents do I need to apply for a loan?",

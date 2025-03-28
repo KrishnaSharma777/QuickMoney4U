@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
     {
       title: "Privacy Policy",
       content: [
-        "At Expessrupee, a lending platform under Expessrupee, we prioritize your privacy. This policy explains how we collect, use, and protect your data. By using Expessrupee, you agree to the collection and use of your information as outlined in this Privacy Policy.",
+        "At Xpressrupee, a lending platform under Xpressrupee, we prioritize your privacy. This policy explains how we collect, use, and protect your data. By using Xpressrupee, you agree to the collection and use of your information as outlined in this Privacy Policy.",
       ],
     },
     {
@@ -48,7 +48,7 @@ const PrivacyPolicy = () => {
         "• Authorized Third Parties: We work with Credit Bureaus, Payment Gateways, and Verification Agencies to process and verify ",
         { text: "your information.", align: "left", indent: "true" },
         "• Legal Authorities: We may disclose your information as required by the law, such as for regulatory reporting or fraud investigations.",
-        "• Parent Company: We may share your data with our parent company,Expessrupee, for loan processing.",
+        "• Parent Company: We may share your data with our parent company,Xpressrupee, for loan processing.",
       ],
     },
     {
@@ -97,7 +97,7 @@ const PrivacyPolicy = () => {
       title: "11. Contact Us",
       content: [
         "If you have any questions, please contact us at:",
-        "• Email: info@Expessrupee.com",
+        "• Email: info@xpressrupee.com",
         "• Phone: +91 91 7042334888",
         "• Address: 1710, 17th Floor, World Trade Tower, Sector -16, Noida, Uttar Pradesh - 201301.",
       ],

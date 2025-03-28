@@ -231,7 +231,7 @@ const Footer = () => {
                         alignItems: "center",
                       }}
                     >
-                      <Email sx={{ mr: 1 }} /> info@Expessrupee.com
+                      <Email sx={{ mr: 1 }} /> info@xpressrupee.com
                     </Link>
                   </li>
                   <li>
@@ -286,7 +286,7 @@ const Footer = () => {
               textShadow: "1px 1px 2px rgba(0, 0, 0, 0.7)",
             }}
           >
-            Copyright &copy; 2024 Expessrupee. All Rights Reserved.
+            Copyright &copy; 2024 Xpressrupee. All Rights Reserved.
           </Typography>
         </Box>
       </footer>

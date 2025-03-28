@@ -26,7 +26,7 @@ const WhatPeopleSay = () => {
         mb={4}
         sx={{ paddingX: { xs: 2, sm: 12 } }}
       >
-        Real Stories. Real Trust. Real Transformation. Expessrupee empowers
+        Real Stories. Real Trust. Real Transformation. Xpressrupee empowers
         financial journeys with real results.
       </Typography>
 

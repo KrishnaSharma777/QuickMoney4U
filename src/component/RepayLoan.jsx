@@ -73,7 +73,7 @@ const RepayLoan = () => {
           }}
         >
           "Beware of fraud! Always use our secure Repayment Website Link for
-          loan payments. Expessrupee is not responsible for payments made to
+          loan payments. Xpressrupee is not responsible for payments made to
           other accounts."
         </Typography>
 
@@ -171,7 +171,7 @@ const RepayLoan = () => {
               Please share a screenshot of your transfer <br />
               from your bank/Google Pay to <br />
               <strong style={{ color: "#240844" }}>
-                recovery@expessrupee.com
+                recovery@xpressrupee.com
               </strong>
               .
             </Typography>
@@ -256,7 +256,7 @@ const RepayLoan = () => {
                     Name
                   </Box>
                   <Typography sx={{ marginLeft: { xs: 2, md: 3 } }}>
-                    <strong style={{color:'black'}}>expessrupee</strong>
+                    <strong style={{ color: "black" }}>Xpressrupee</strong>
                   </Typography>
                 </Typography>
 

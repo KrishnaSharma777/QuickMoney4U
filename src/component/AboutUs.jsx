@@ -116,9 +116,9 @@ const AboutUs = () => {
           marginBottom: { xs: "40px", md: "20px" }, // Responsive bottom margin
         }}
       >
-        Welcome to Expessrupee - your one-stop shop in providing personal
+        Welcome to Xpressrupee - your one-stop shop in providing personal
         finance loans to all the salaried professionals in the age bracket of
-        21-60. As a digital lending partner under <strong>Expessrupee</strong>,
+        21-60. As a digital lending partner under <strong>Xpressrupee</strong>,
         we have an expertise in providing quick, easily accessible, and
         short-term unsecured loans across India. Our main motto is to make our
         customers feel empowered on financial grounds with full privilege to
@@ -143,7 +143,7 @@ const AboutUs = () => {
           marginBottom: { xs: "40px", md: "60px" }, // Responsive bottom margin
         }}
       >
-        At Expessrupee, we understand that life can be really challenging,
+        At Xpressrupee, we understand that life can be really challenging,
         especially when it’s the arrival of emergency situations, wedding
         expenses, home improvisations. We’re here to ensure that financial
         stress doesn't hold you back. With our easy-to-use fully digital
@@ -209,7 +209,7 @@ const AboutUs = () => {
             and make it easily accessible for salaried individuals. We believe
             in giving everyone the power of being financially secured and are
             committed to providing easy and affordable access to credit. Through
-            our collaboration with Expessrupee, an RBI-registered NBFC
+            our collaboration with Xpressrupee, an RBI-registered NBFC
             (Non-Banking Financial Company), we offer loans that are secure,
             transparent, and customized as per the needs of today’s modern-day
             consumer.
@@ -294,7 +294,7 @@ const AboutUs = () => {
               fontSize: "18px",
             }}
           >
-            Our vision at Expessrupee is to redefine how personal finance is
+            Our vision at Xpressrupee is to redefine how personal finance is
             accessed by salaried professionals in India. We aim to create a
             transparent, customer-focused platform that provides access to
             credit when it’s required by people the most. By making use of the
